@@ -1,2 +1,2 @@
 # TeamIssues
-All of the Issuesof the Vastsea Organization
+All of the Issues of the Vastsea Organization
